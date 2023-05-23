@@ -7,6 +7,7 @@ In this project we will use the nodejs openai library to interact with the ChatG
 ```bash
 touch .env
 ```
+[Create API Secret Key Link](https://platform.openai.com/account/api-keys)
 
 put below contents in the file
 
