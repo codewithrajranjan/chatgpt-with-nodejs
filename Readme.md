@@ -21,3 +21,7 @@ OPENAI_API_KEY="your-open-api-key"
 ```bash
 node index.js
 ```
+
+### Complete Video Guide
+
+[Here]([https://platform.openai.com/account/api-keys](https://www.youtube.com/watch?v=18O2BTG7gnE)) 
